@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/dC3uDJazzlM4z3lZJ5/giphy.gif" width=65>
+<img src="https://media.giphy.com/media/dC3uDJazzlM4z3lZJ5/giphy.gif" width=160>
 </div>
 <h1 align="center">
   <a href="https://renatasoouza.github.io/Vingadores/" target="_blank">Aula 10 🔗  </a>
